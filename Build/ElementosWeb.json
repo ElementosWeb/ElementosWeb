@@ -1,0 +1,16 @@
+{
+"companyName": "AlexG",
+"productName": "Elementos AR",
+"productVersion": "0.2",
+"dataUrl": "ElementosWeb.data.unityweb",
+"wasmCodeUrl": "ElementosWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "ElementosWeb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
